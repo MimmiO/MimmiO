@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a postdoc researcher at the Geological Survey of Denmark and Greenland (GEUS)
+
 <!--
 **MimmiO/MimmiO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
